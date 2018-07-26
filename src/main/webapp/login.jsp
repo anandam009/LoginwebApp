@@ -9,6 +9,7 @@
     rs = sta.executeQuery(query);
  */
 
+ 
 
 	String query = "select count(*) as \"exists\" from user where username=? and password=?";
 	String userName = request.getParameter("userName");

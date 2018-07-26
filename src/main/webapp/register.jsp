@@ -24,6 +24,7 @@
                         <td><input type="text" name="lastName" value="" /></td>
                     </tr>
                     <tr>
+                    
                         <td>Email</td>
                         <td><input type="text" name="email" value="" /></td>
                     </tr>
